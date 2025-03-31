@@ -61,6 +61,7 @@ body {
 	left: 84px;
 	bottom: 84px;
 	z-index: 100;
+	filter: drop-shadow(0px 0px 2px #697997);
 }
 .main_slider .controller a {
 	width: 38px;
@@ -94,6 +95,7 @@ body {
 	font-weight: 300;
 	color: #fff;
 	pointer-events: none;
+	filter: drop-shadow(0px 0px 2px #576377);
 }
 .main_slider .account .current {
 	font-weight: 600;
